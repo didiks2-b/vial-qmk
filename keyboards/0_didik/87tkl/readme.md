@@ -12,5 +12,4 @@ Jalankan setup dependensi QMK/Vial:
 > qmk setup -y  (y apa ini ya)
 
 > git submodule update --init --recursive
-
-> qmk compile -kb <nama_keyboard> -km <nama_keymap_vial>
+make 0_didik/87tkl:vial
